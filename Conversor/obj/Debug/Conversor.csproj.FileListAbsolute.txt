@@ -1,0 +1,10 @@
+C:\Users\Joatha\Desktop\CadastroC#\Conversor\Conversor\bin\Debug\Conversor.exe.config
+C:\Users\Joatha\Desktop\CadastroC#\Conversor\Conversor\bin\Debug\Conversor.exe
+C:\Users\Joatha\Desktop\CadastroC#\Conversor\Conversor\bin\Debug\Conversor.pdb
+C:\Users\Joatha\Desktop\CadastroC#\Conversor\Conversor\obj\Debug\Conversor.Form1.resources
+C:\Users\Joatha\Desktop\CadastroC#\Conversor\Conversor\obj\Debug\Conversor.Properties.Resources.resources
+C:\Users\Joatha\Desktop\CadastroC#\Conversor\Conversor\obj\Debug\Conversor.csproj.GenerateResource.cache
+C:\Users\Joatha\Desktop\CadastroC#\Conversor\Conversor\obj\Debug\Conversor.csproj.CoreCompileInputs.cache
+C:\Users\Joatha\Desktop\CadastroC#\Conversor\Conversor\obj\Debug\Conversor.exe
+C:\Users\Joatha\Desktop\CadastroC#\Conversor\Conversor\obj\Debug\Conversor.pdb
+C:\Users\Joatha\Desktop\CadastroC#\Conversor\Conversor\obj\Debug\Conversor.csprojAssemblyReference.cache
